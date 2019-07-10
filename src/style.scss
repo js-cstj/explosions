@@ -14,7 +14,8 @@ body {
 	& > header, & > footer {
 		flex: 0 1 auto;
 		padding: .5em 1em;
-		background-color: #EEE;
+		background-color: darkred;
+		color:white;
 		display: flex;
 		justify-content: space-between;
 	}
